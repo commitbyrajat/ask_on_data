@@ -37,7 +37,7 @@ rye self install
 
 ### 2️⃣ Clone the Repository  
 ```sh  
-git clone <your-repo-url>  
+git clone https://github.com/commitbyrajat/ask_on_data.git 
 cd ask-on-data  
 ```  
 
