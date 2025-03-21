@@ -1,4 +1,4 @@
-from typing import Dict, Any
+from typing import Any, Dict
 
 from ask_on_data.chain.first_responder_chain import get_first_responder_chain
 from ask_on_data.state.graph_state import GraphState

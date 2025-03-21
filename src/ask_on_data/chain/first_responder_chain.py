@@ -1,4 +1,4 @@
-from typing import Union, Any
+from typing import Union
 
 from langchain_core.language_models import BaseChatModel
 from langchain_core.messages import HumanMessage
